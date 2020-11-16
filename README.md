@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Cybsafe as a Frontend Engineer doing some amazing stuffs
+- 🔭 I’m currently working on Twisper as a Frontend Engineer doing some amazing stuffs
 - 🌱 I’m currently learning about TypeScript and Unit tests
 - ⚡ Fun fact: I study Korean and I like to play Street Fighter professionaly 🤣
