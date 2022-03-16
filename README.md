@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Generous as a Fullstack Engineer doing some amazing stuffs
-- 🌱 I’m currently learning about TypeScript and Unit tests
+- 🌱 Studying TypeScript and Unit tests
