@@ -7,6 +7,3 @@ Here are some ideas to get you started:
 
 
 -->
-
-- 🔭 I’m currently working on Generous as a Fullstack Engineer doing some amazing stuffs
-- 🌱 Studying TypeScript and Unit tests
